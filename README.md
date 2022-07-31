@@ -1,4 +1,4 @@
-# TokenMakers Hardhat Tutorial
+# Token Makers Hardhat Tutorial
 
 This repo is the final state of the hardhat tutorial covered by the Token Makers newsletter.
 
